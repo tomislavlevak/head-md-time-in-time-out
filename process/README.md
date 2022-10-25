@@ -5,11 +5,17 @@ This is the process folder describing my progress throughout the semester
 
 ## MOUVEMENTS Corporels
 recherches des différents mouvements en lien avec le temps:
+
 	-remonter sa montre mécanique
+
     -tourner un sablier
+
     -tourner le disque de stationnement
+
     -faire les cents pas
+
     -tics (exemple jambe qui bouge de manière ryhtmique)
+
     -sortir son smartphone
 
 Mise en lien des derniers mouvements avec les situations d'attente
@@ -21,6 +27,7 @@ Urgences
     attente de 2 à 6h du matin. Sans wifi, juste l'heure sur mon telephone.
 
 recherche articles scientifiques, académiques sur l'ennui
+
 	-https://www.quebecscience.qc.ca/sciences/et-si-ennui-etait-benefique/
 	
 	-https://pubmed.ncbi.nlm.nih.gov/21571736/ (echelle de mesure)
@@ -56,9 +63,13 @@ indeterminée de qqch
     Du coup je reste. Je suis ennuyé de ne pas pouvoir partir. Je n'arrive pas à dire si celui-ci a duré 10min ou une heure mais cela m'a paru plus proche
     de la deuxième option.
     A la fin du concert je questionne donc mes amiexs sur leur ressenti du concert et plus précisément par rapport à ce long morceau
+
 	    -personne no1: "a adoré" "n'as pas vu le temps passer" et estimé à 15min le temps du morceau long
+
 	    -personne no2: "ne connaissait pas le groupe" "a trouvé chouette" "mais un peu long pour un dimanche soir", n'as pas remarqué le morceau long
+
 	    -personne no3: a trouvé "super chouette" mais long aussi à cause de la fatigue, 20min pour le morceau long
+        
 	
     le morceau a en realité duré environ 30min
 
