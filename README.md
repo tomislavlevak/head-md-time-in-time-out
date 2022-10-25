@@ -4,11 +4,11 @@ This is an example project from the Time In Time Out project of the Media Design
 ## MOUVEMENTS Corporels
 recherches des différents mouvements en lien avec le temps:
 	-remonter sa montre mécanique
-	-tourner un sablier
-	-tourner le disque de stationnement
-	-faire les cents pas
-	-tics (exemple jambe qui bouge de manière ryhtmique)
-	-sortir son smartphone
+    -tourner un sablier
+    -tourner le disque de stationnement
+    -faire les cents pas
+    -tics (exemple jambe qui bouge de manière ryhtmique)
+    -sortir son smartphone
 
 Mise en lien des derniers mouvements avec les situations d'attente
     par ex. à l'arrêt de bus, les toilettes, etc..
