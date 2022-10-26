@@ -48,10 +48,11 @@ recherche articles scientifiques, académiques sur l'ennui
 	-Les concepts fondamentaux de la métaphysique. Monde, finitude, solitude - Martin Heidegger
 
 	-https://www.cairn.info/revue-psychotropes-2011-2-page-9.htm
-	    Temporalités douloureuses et le vécu de l'ennui
-	    Alexandrine Schniewind
-	    Dans Le Carnet PSY 2014/2 (N° 178), pages 19 à 23
-	
+
+    L'ennui comme expérience du temps
+    Pascal David
+    Dans Psychotropes 2011/2 (Vol. 17), pages 9 à 17
+
 	https://www.letemps.ch/lifestyle/lon-reapprenait-sennuyer
 
 	https://www.lemonde.fr/tant-de-temps/article/2017/10/04/a-la-recherche-du-temps-perdu_5195845_4598196.html
@@ -74,4 +75,4 @@ indeterminée de qqch
     le morceau a en realité duré environ 30min
 
 	    -Acid Mothers Temple & The Cosmic Inferno - Pink Lady Lemonade ~ You're From Outer Space
-	    https://www.youtube.com/watch?v=_mTDgQ5s4PY
+	    https://www.youtube.com/watch?v=YVNRQIB_4wg&t=801s
