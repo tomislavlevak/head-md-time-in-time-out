@@ -57,6 +57,8 @@ recherche articles scientifiques, académiques sur l'ennui
 
 	https://www.lemonde.fr/tant-de-temps/article/2017/10/04/a-la-recherche-du-temps-perdu_5195845_4598196.html
 
+	https://www.futura-sciences.com/sante/actualites/medecine-plutot-recevoir-chocs-electriques-ennuyer-diraient-hommes-54420/
+
 ## ATTENTE
 indeterminée de qqch
     Lors d'un concert dimanche soir, alors que j'étais fatigué, le groupe commence à jouer un morceau particulièrement long. Commençant à me dire qu'il serait temps 
