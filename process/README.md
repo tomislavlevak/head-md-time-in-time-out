@@ -137,3 +137,8 @@ indeterminée de qqch
 
 	    -Acid Mothers Temple & The Cosmic Inferno - Pink Lady Lemonade ~ You're From Outer Space
 	    https://www.youtube.com/watch?v=YVNRQIB_4wg&t=801s
+
+## BRAIN
+
+check Default Mode Nerwork
+https://en.wikipedia.org/wiki/Default_mode_network
