@@ -29,6 +29,12 @@ Urgences
 recherche articles scientifiques, académiques sur l'ennui
 
 	-https://www.quebecscience.qc.ca/sciences/et-si-ennui-etait-benefique/
+
+		Pour Mark Kingwell, professeur au Département de philosophie de l’Université de Toronto, une certaine tolérance à l’ennui est indispensable pour s’interroger sur les « objectifs motivants dont on a tous besoin dans la vie ».
+
+		« Malheureusement, nous nous distrayons frénétiquement sur Facebook, Instagram, Twitter et autres applications afin de déjouer, sans succès, un ennui sans cesse renouvelé. La peur de l’ennui conduit à la dépendance à l’égard des applications qui éveillent des désirs de consommation sans fin et, donc, des insatisfactions toujours plus grandes », déplore-t-il, faisant écho à son ouvrage paru l’an dernier, Wish I Were Here: Boredom and the Interface.
+
+		Le philosophe Bertrand Russell, en 1930, observait pour sa part que « nous nous ennuyons moins que nos ancêtres, mais nous craignons plus l’ennui ». Faisant une distinction entre l’ennui fécond et l’ennui abrutissant, l’auteur concluait « qu’une génération incapable de supporter l’ennui sera une génération d’hommes médiocres, d’hommes qui ont rompu à tort avec le lent processus de la nature, d’hommes dont toutes les impulsions vitales se fanent lentement comme s’ils étaient des fleurs coupées dans un vase ».
 	
 	-https://pubmed.ncbi.nlm.nih.gov/21571736/ (echelle de mesure)
 
@@ -43,7 +49,11 @@ recherche articles scientifiques, académiques sur l'ennui
 		"Cette triple distinction faite par Martin permet de voir que l’ennui est la manifestation de différentes formes de vécu temporel douloureux. 
 		Quand le temps devient long alors qu’on aimerait qu’il soit court, quand la langueur n’est plus douce mais seulement l’expression d’un vide insupportable, 
 		on réalise que l’empressement à trouver des passe-temps multiples n’est au fond rien d’autre que le fait de chercher par tous les moyens à fuir les 
-		différentes formes d’ennui."
+		différentes formes d’ennui."$
+
+		ref narration
+
+		"C’est sans doute ce qui mène Peter Handke à donner à son texte une tonalité particulière : il en fait un récit atemporel et presque a-personnel. Aucun nom de personne ni de lieu n’est prononcé ; les personnes sont désignées par des pronoms personnels, et les lieux décrits par certaines caractéristiques particulières. Par moments, à la lecture du texte, on s’embrouille entre les pronoms personnels neutres et on ne sait plus de qui il est question : de l’adulte ? de l’enfant ? Parmi les éléments centraux du récit : le changement du vécu temporel du père, dès lors qu’il devient père à 28 ans. Sa vie change subitement. Son organisation pratique change (cela va de soi). Mais plus encore, sa perception de soi, de son emplacement dans le monde et par rapport à son activité d’écrivain et d’intellectuel, se modifie de manière substantielle et durable. Peter est père. C’était un rêve qu’il nourrissait depuis son adolescence : « l’image d’une entente muette, de courts échanges de regards : on s’accroupissait, une chevelure, une raie irrégulière, on était près et loin en heureuse harmonie » (p. 19). Mais une fois sa fille née, il est confronté avec ce que cela signifie pour lui que de vivre au rythme du nourrisson : « Lui, qui s’était tout au plus attendu à quelques transformations, se vit prisonnier chez lui, et tout au long des heures durant lesquelles, la nuit, il roulait l’enfant en pleurs à travers l’appartement, il se disait, privé d’imagination, que maintenant c’en était pour longtemps fini de la vie » (p. 25, je souligne)."
 
 	-Les concepts fondamentaux de la métaphysique. Monde, finitude, solitude - Martin Heidegger
 
