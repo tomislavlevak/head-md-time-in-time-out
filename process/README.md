@@ -59,6 +59,8 @@ recherche articles scientifiques, académiques sur l'ennui
 
 	https://www.futura-sciences.com/sante/actualites/medecine-plutot-recevoir-chocs-electriques-ennuyer-diraient-hommes-54420/
 
+	l’ennui est le désir de désirer - Tolstoï
+
 ## ATTENTE
 indeterminée de qqch
     Lors d'un concert dimanche soir, alors que j'étais fatigué, le groupe commence à jouer un morceau particulièrement long. Commençant à me dire qu'il serait temps 
