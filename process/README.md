@@ -65,13 +65,58 @@ recherche articles scientifiques, académiques sur l'ennui
     Pascal David
     Dans Psychotropes 2011/2 (Vol. 17), pages 9 à 17
 
-	https://www.letemps.ch/lifestyle/lon-reapprenait-sennuyer
+		"Et il apporte à cette question pour le moins déroutante et inattendue une réponse non moins inattendue et déroutante : « Wir sind Zeit », « Nous sommes temps ». Le temps est notre étoffe, nous sommes d’étoffe temporelle, et la trame de cette étoffe – en quelque sorte le texte de notre vie – est constituée par ce qu’on appelle le fil du temps, qu’il appartient aux ciseaux des Parques de trancher le moment venu. C’est au fil du temps que l’être humain s’achemine de la naissance à la mort – ce qui fait que les Anciens ne disaient pas en général « les hommes » mais « les mortels ». Se confronter au temps, c’est donc se risquer à la confrontation la plus difficile qui soit : la confrontation avec soi-même. D’où le caractère exemplaire de l’expérience de l’ennui et – ou plutôt en – sa valeur initiatique."
 
-	https://www.lemonde.fr/tant-de-temps/article/2017/10/04/a-la-recherche-du-temps-perdu_5195845_4598196.html
+		Peut-être avons-nous désappris à nous ennuyer, à mesure que nous avons appris à nous désennuyer – d’où le vide abyssal que comble aujourd’hui cette addiction répandue qui s’appelle la télévision. Dans son ouvrage à caractère autobiographique intitulé Variations sauvages, la pianiste Hélène Grimaud revient sur le temps de son enfance à Aix-en-Provence : « … dans ma chambre s’étiraient ces interminables et délicieuses plages d’ennui, ces heures de vide que mes parents ne comblaient pas d’activités extraordinaires ni de télévision ». Tous les enfants n’ont pas aujourd’hui cette chance ! Cette chance que leur soit laissée et non confisquée (même s’ils y consentent et même le réclament) la possibilité de s’ennuyer. Certes, l’ennui n’est pas toujours le bienvenu, il passe moins pour une plage que pour une plaie. Il décolore tout, recouvre tout de sa grisaille, surgissant de manière inopinée. On peut certes chercher à le chasser à tout prix, grâce à des passe-temps (« zapper »), juste le temps d’aller le retrouver ailleurs. L’ennui n’est pas seulement le singulier des ennuis (quand on a des ennuis, à savoir des contrariétés, on n’a pas le temps de s’ennuyer), même s’il y a des degrés dans l’ennui, de l’ennui superficiel à l’ennui profond, à l’acédie ou au spleen.
 
-	https://www.futura-sciences.com/sante/actualites/medecine-plutot-recevoir-chocs-electriques-ennuyer-diraient-hommes-54420/
+		Étymologiquement, l’ennui est un mot très fort, il vient du latin in odium : « en haine », j’ai la haine du monde, tout m’est odieux (est mihi in odio : cela m’ennuie). Il a gardé ce sens en français classique, par exemple chez Pascal où il rime avec : noirceur, tristesse, chagrin, dépit, désespoir. On trouve en outre sous la plume de Pascal, grand analyste du « divertissement », l’expression très parlante : « se sécher d’ennui », se morfondre comme un poisson sur la grève. On dit plutôt aujourd’hui : « mourir d’ennui », éprouver un « ennui mortel » (même si aucune notice nécrologique n’a sans doute fait figurer, après notification du nom du disparu : Mort d’ennui). L’ennui mortel incite à « tuer le temps », comme on dit en français et dans bien d’autres langues : allemand die Zeit totschlagen, espagnol matar el tiempo, italien uccidere ou encore ammazzare il tempo, russe ubit’ vremia, etc. Comme si l’ennui ne connaissait pas de frontières et étendait partout sa morne plaine. Est-ce à dire que l’ennui suivrait uniformément son cours sous toutes les latitudes, dans toutes les contrées et à toutes les époques ? Rien n’est moins sûr. Il est possible que certains peuples aient plus que d’autres une prédisposition à l’ennui, qu’ils soient particulièrement doués pour l’ennui, l’éprouvent de manière plus continue et plus intense, comme les Russes selon Vladimir Jankélévitch, pour nous limiter ici à un seul exemple. On lit en effet dans son livre intitulé L’Aventure, l’ennui, le sérieux :
 
-	l’ennui est le désir de désirer - Tolstoï
+		« Le roman et la poésie russe (…) ont beaucoup à nous apprendre sur ce sentiment informe [= l’ennui] qui est vaste comme la steppe et blanc comme la neige. La langue russe ne manque pas de mots pour le désigner : skouka, qui est l’ennui au sens étroit, le mal de la durée trop longue et de l’existence trop vide ; toska, moins subtile que le spleen, plus traînante aussi, mais qui à skouka ajoute le dynamisme du regret et de l’aspiration vague ; qui est nostalgie par-derrière et, par-devant, attente d’on ne sait quoi ; khondra, qui est plutôt l’hypocondrie, l’ennui viscéral. Et il y avait place encore dans l’âme russe, au temps de l’oppression, pour bien d’autres variétés de mélancolie ! » [...]
+
+		""Que l’ennui, à condition de l’approfondir plutôt que de le fuir, comporte ses propres antidotes, ou du moins tienne en réserve des ressources insoupçonnées, c’est là ce que semblent suggérer quelques vers impeccables du même poète Paul Valéry, dont l’œuvre ne serait sans doute pas ce qu’elle est s’il n’avait su profondément s’ennuyer, dans un poème intitulé « Palmes » :
+
+11
+
+   			 Ces jours qui te semblent vides
+    		Et perdus pour l’univers
+    		Ont des racines avides
+    		Qui travaillent les déserts.
+
+12
+		Où l’on aura noté que la vacuité, le « vide » de l’ennui rime avec « avide », avec l’avidité de ses racines. L’ennui a donc quelque chose à nous dire, que la plupart du temps nous ne voulons pas entendre, nous privant par là même de tout ce que pourraient faire fructifier les « racines avides » des jours qui nous semblent vides. C’est dire que l’ennui demande non à être fui, chassé ou tué, mais converti, approfondi, creusé. Il ne suffit pas de s’ennuyer « comme un rat mort », mais plutôt, peut-être, d’apprendre à s’ennuyer royalement, comme l’ennui d’un roi sans divertissement (selon l’expression de Pascal reprise par Jean Giono). C’est tout un art. L’art de s’ennuyer royalement porte d’ailleurs un nom, il s’appelle : philosophie. [...]
+
+
+		De cette analyse il ressort que l’ennui provient de notre propre être-temporel, qu’il ressortit à « la manière dont notre propre être-temporel se tempore ». Il en ressort en outre que la conception courante du temps, qui fait du temps un écoulement de « maintenants » ponctuels, fractions minimales de temps, ne permet pas de pénétrer dans la structure temporelle de l’ennui et ne permet pas non plus, a fortiori, d’aborder le temps comme dimension constitutive de notre être. Il reste donc à apprendre à éprouver le temps autrement que comme du quantifiable et du mesurable, de manière chrono-métrique, en laissant le déjà et le pas encore se rejoindre et se répondre tout autrement que ne le dit l’adverbe successivement. Ce n’est pas le tic-tac de l’horloge qui nous apprendra ce qu’est le temps, si effrayant soit-il comme dans le poème de Baudelaire « L’Horloge », dernier poème de la Section « Spleen et idéal » :
+
+14
+
+    		Trois mille six cents fois par heure la Seconde
+    		Chuchote : Souviens-toi ! Rapide, avec sa voix
+    		D’insecte, Maintenant dit : Je suis Autrefois,
+   		 	Et j’ai pompé ta vie avec ma trompe immonde.
+    		Remember ! Souviens-toi ! prodigue ! Esto memor !
+    		(Mon gosier de métal parle toutes les langues)
+    		Les minutes, mortel folâtre, sont des gangues
+    		Qu’il ne faut pas lâcher sans en extraire l’or !
+
+		Plus profond et plus dense que le temps qui se compose d’heures, de minutes et de secondes, il y a le temps de l’existence, où de « très riches heures » ne font pas nécessairement chacune soixante minutes, où « un mauvais quart d’heure » ne dure pas nécessairement quinze minutes, où même un instant fulgurant, celui du « coup de foudre », peut durer une éternité, comme dans un autre poème des Fleurs du mal, « À une passante »
+
+    		Un éclair… puis la nuit ! –Fugitive beauté
+    		Dont le regard m’a fait soudainement renaître,
+    		Ne te verrai-je plus que dans l’éternité ?
+
+	Conclusion:
+
+		Nietzsche a pu noter que « presque tous les habitants des pays civilisés », à la fin du XIXe siècle, préfèrent encore travailler sans plaisir, en y voyant un moyen et non un but en lui-même, plutôt que de s’ennuyer : « Chasser l’ennui à tout prix est vulgaire, comme de travailler sans plaisir ». Le texte du Gai savoir dont cette dernière citation est extraite s’intitule « Travail et ennui » (Livre I, § 42). Cette inaptitude à l’ennui, Nietzsche la met également en rapport avec la « soudaineté répugnante » (widrige Plötzlichkeit) du « poison européen, l’alcool ». « Vulgaire » ou « commun », gemein, dans le vocabulaire de Nietzsche, équivaut le plus souvent à grégaire : ce par quoi l’individu ne se distingue pas du troupeau. Le phénomène que nous appelons aujourd’hui les addictions trouve à partir de là un certain éclairage, y compris celle à un travail qui a cessé d’être un but en lui-même (workoholism). Nous concevons le travail de telle sorte que nous n’avons littéralement plus le temps de nous ennuyer. Nous n’avons plus le loisir de nous ennuyer. C’est ce que les Anciens appelaient en latin le « négoce » (neg-otium), à savoir l’absence de loisir, d’otium. Il y a certes un mauvais usage du loisir, l’oisiveté (otiositas), qui est comme chacun sait la mère de tous les vices. Mais il y en a aussi un meilleur usage. À condition d’en jouir autrement que comme d’un « temps libre » – lequel ne se définit au fond que négativement comme celui qui n’est pas consacré au travail –, sous la forme de ce que Valéry appelait, nous l’avons vu, « loisir chronométrique » en l’opposant au « loisir intérieur » : « Mais je dis que le loisir intérieur, qui est tout autre chose que le loisir chronométrique, se perd. » Bref, pour laisser le mot de la fin au poète : « nous ne savons plus féconder l’ennui ».
+
+
+	-https://www.letemps.ch/lifestyle/lon-reapprenait-sennuyer
+
+	-https://www.lemonde.fr/tant-de-temps/article/2017/10/04/a-la-recherche-du-temps-perdu_5195845_4598196.html
+
+	-https://www.futura-sciences.com/sante/actualites/medecine-plutot-recevoir-chocs-electriques-ennuyer-diraient-hommes-54420/
+
+	-"l’ennui est le désir de désirer" - Tolstoï
 
 ## ATTENTE
 indeterminée de qqch
