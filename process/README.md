@@ -22,11 +22,11 @@ Mise en lien des derniers mouvements avec les situations d'attente
     par ex. à l'arrêt de bus, les toilettes, etc..
 
 ## ENNUI
-Urgences
+URGENCES
     Souvenir de mon passage aux urgence il y deux semaines de 0h à 8h du matin avec longue
     attente de 2 à 6h du matin. Sans wifi, juste l'heure sur mon telephone.
 
-recherche articles scientifiques, académiques sur l'ennui
+RECHERCHE articles scientifiques, académiques sur l'ennui
 
 	-https://www.quebecscience.qc.ca/sciences/et-si-ennui-etait-benefique/
 
@@ -138,7 +138,59 @@ indeterminée de qqch
 	    -Acid Mothers Temple & The Cosmic Inferno - Pink Lady Lemonade ~ You're From Outer Space
 	    https://www.youtube.com/watch?v=YVNRQIB_4wg&t=801s
 
+ARRETS DE BUS
+
+28.10		~17h: 6/9 smartphone, 2/9 discussion ensemble, 1/9 attendais sans rien faire d'autre à priori
+		~20h: 5/6 discutait avec des bières à la main, 1/6 écouteurs
+
+de manière générales personnes seules majoritairement sur tel
+
+MODE ENNUI
+
+qu'as-tu pensé de ces 15min? (ressenti, actions)
+Est-ce que tu aurais aimé choisir un autre endroit pour ce moment?
+
+	-Noah:
+		"d'abord j'ai un peu tourné l'objet dans mes mains jusque dans les détails (nb de pli de bois ) et après j'ai
+		observé autour de moi quand j'ai regardé le sol j'ai pensé au tri qui n'avait pas été fait ce qui m'a fait penser
+		au petit salon, faudrait vraiment qu'on s'y mette. J'ai pas trouvé que le temps était particulièrement long.
+		dans la natureee""
+
+	-Eli:
+		"je suis désolé j'ai un peu abimé le papier. Je crois que ça m'a fait stresser d'attendre aussi longtemps sans avoir un truc 
+		à faire. J'ai un rendu mardi qui me stresse j'y ai surtout pensé parce que c'est tout le temps dans un coin de ma tête en ce moment.
+		Au soleil ça aurait été plus agréable je crois"
+
+
+TIME IN ennui
+-> anxiété
+
+mise en relation temps - société - individu 
+
+ressenti personnel ressortant de situation ou on pourrait être chill mais qui nous font stresser
+
+narration: sortir de cette situation de stress en s'appropriant ledit moment, focus bien-être TIME OUT
+
+transition du TIME IN en OUT
+
+
+
+parenthèse personnel: en ce moment (période de l'année, transition vers l'hiver -> anxiété)
+ma manière de gérer ce mal intérieur: surcharger mon planning de manière à ne pas avoir à y penser
+
+->ambiguité s'occuper vs prendre du temps pour soi
+
+manière de prendre du temps pour soi 
+hobbies vs introspection, selfcare??
+
+Est-ce qu'on s'ennuie pendant les vacances? A la plage? A la montagne?
+
+
+
 ## BRAIN
 
 check Default Mode Nerwork
 https://en.wikipedia.org/wiki/Default_mode_network
+
+
+
