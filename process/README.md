@@ -118,6 +118,18 @@ RECHERCHE articles scientifiques, académiques sur l'ennui
 
 	-"l’ennui est le désir de désirer" - Tolstoï
 
+	-https://www.futura-sciences.com/sante/actualites/medecine-ca-fait-peur-on-peut-ennuyer-cinq-manieres-differentes-50525/
+
+		Le premier type d'ennui, ou ennui « indifférent », était caractérisé par un état d'éveil bas et une valence légèrement positive : le sujet est détendu, fatigué, mais plutôt heureux, indifférent au monde extérieur. Dans l'ennui « de calibrage », l'individu est un peu plus éveillé, mais son ressenti plus négatif : ses pensées se promènent, il ne sait pas quoi faire, sans chercher activement à faire autre chose. Dans l'« ennui de recherche », le sujet est encore plus éveillé et son sentiment encore plus négatif. Il cherche activement des actions à accomplir pour sortir de ce sentiment d'ennui, il a besoin d'activité. Le dernier type d'ennui, dit « réactif », a les niveaux d'éveil les plus élevés et ceux de valence les plus négatifs : l'individu est très motivé à quitter sa situation d'ennui ; il s'agit d'un sentiment très déplaisant et de la forme d'ennui la plus négative.
+
+		Dans leurs nouveaux travaux, les chercheurs ont collecté les impressions des étudiants au moment où ils ressentaient de l'ennui, ce qui leur a permis de trouver l'ennui « apathique » : caractérisé par un haut niveau de valence et un faible niveau d'éveil, il est aussi déplaisant que l'ennui « réactif », mais s'en différencie par un état complètement relâché.
+	
+	-https://www.letemps.ch/societe/blues-dimanche-soir-un-mal-se-soigne
+	
+	-https://fr.wikipedia.org/wiki/Syndrome_d%27%C3%A9puisement_professionnel_par_l%27ennui
+
+		Le syndrome d'épuisement professionnel par l'ennui ou boreout (parfois orthographié bore-out), [ˈbɔɹaʊt], est un trouble psychologique qui engendre des maladies physiques. 
+
 ## ATTENTE
 indeterminée de qqch
     Lors d'un concert dimanche soir, alors que j'étais fatigué, le groupe commence à jouer un morceau particulièrement long. Commençant à me dire qu'il serait temps 
