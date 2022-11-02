@@ -294,3 +294,39 @@ https://en.wikipedia.org/wiki/Default_mode_network
 
 
 
+## REBOOT
+
+	-https://fr.wikipedia.org/wiki/D%C3%A9marrage_d%27un_ordinateur
+
+		Quelqu’un a donc défini le nom bootstrap par analogie avec la plaisanterie suivante[citation nécessaire] :
+
+    « Comment faire pour traverser un lac sans se mouiller ?
+    Réponse : tirez suffisamment fort sur les languettes de vos bottes vers le haut pour marcher sur l’eau sans couler. »
+
+Reboot Your Brain in 30 Seconds - (Discovered by Dr Alan Mandell, DC) - https://www.youtube.com/watch?v=J5lFGQk5zbE
+
+	-https://aeon.co/essays/your-brain-does-not-process-information-and-it-is-not-a-computer
+
+		The information processing (IP) metaphor of human intelligence now dominates human thinking, both on the street and in the sciences. 
+		There is virtually no form of discourse about intelligent human behaviour that proceeds without employing this metaphor, just as no form
+		 of discourse about intelligent human behaviour could proceed in certain eras and cultures without reference to a spirit or deity.
+		  The validity of the IP metaphor in today’s world is generally assumed without question.
+
+		But the IP metaphor is, after all, just another metaphor – a story we tell to make sense of something we don’t actually understand.
+		 And like all the metaphors that preceded it, it will certainly be cast aside at some point – either replaced by another metaphor or,
+		  in the end, replaced by actual knowledge.
+
+		Just over a year ago, on a visit to one of the world’s most prestigious research institutes, I challenged researchers there to account
+		 for intelligent human behaviour without reference to any aspect of the IP metaphor. They couldn’t do it, and when I politely raised
+		  the issue in subsequent email communications, they still had nothing to offer months later. They saw the problem. They didn’t dismiss
+		   the challenge as trivial. But they couldn’t offer an alternative. In other words, the IP metaphor is ‘sticky’. It encumbers our thinking
+		    with language and ideas that are so powerful we have trouble thinking around them.
+
+		The faulty logic of the IP metaphor is easy enough to state. It is based on a faulty syllogism – one with two reasonable premises
+		 and a faulty conclusion. Reasonable premise #1: all computers are capable of behaving intelligently. 
+		 Reasonable premise #2: all computers are information processors. Faulty conclusion: all entities that are capable of behaving intelligently are information processors.
+
+		Setting aside the formal language, the idea that humans must be information processors just because computers are information 
+		processors is just plain silly, and when, some day, the IP metaphor is finally abandoned, it will almost certainly be seen that way by historians, 
+		just as we now view the hydraulic and mechanical metaphors to be silly.
+
