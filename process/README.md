@@ -336,4 +336,13 @@ Reboot Your Brain in 30 Seconds - (Discovered by Dr Alan Mandell, DC) - https://
 
 		We become more effective in our lives if we change in ways that are consistent with these experiences – if we can now recite a poem or sing a song, if we are able to follow the instructions we are given, if we respond to the unimportant stimuli more like we do to the important stimuli, if we refrain from behaving in ways that were punished, if we behave more frequently in ways that were rewarded. [...]
 
-		The mainstream view is that we, like computers, make sense of the world by performing computations on mental representations of it, but Chemero and others describe another way of understanding intelligent behaviour – as **a direct interaction between organisms and their world.**
+		The mainstream view is that we, like computers, make sense of the world by performing computations on mental representations of it, but Chemero and others describe another way of understanding intelligent behaviour – as **a direct interaction between organisms and their world.** [...]
+
+		We are organisms, not computers. Get over it. Let’s get on with the business of trying to understand ourselves, but without being encumbered by unnecessary intellectual baggage. The IP metaphor has had a half-century run, producing few, if any, insights along the way. The time has come to hit the DELETE key.
+
+
+parallèle entre activité cérébral et utilisation smartphone?
+
+reboot du cerveau pas aussi évident que celui d'un ordinateur
+
+un programme qui tourne tant que l'on est stimulé et qui se réinitialise lorsque l'on s'arrête (deufault mode network)
