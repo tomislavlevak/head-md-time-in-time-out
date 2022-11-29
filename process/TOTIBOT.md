@@ -5,3 +5,5 @@ Nevertheless these moments are necessary for the brain which will switch to the 
 
 The aim of this project is to bring out these moments. The programm would collect datas while the user is active and restart 
 when they are not. Nevertheless the user can keep it running while not active if they are interacting with it.
+
+![Pitch2](images/ObjetModeEnnui.jpeg)
