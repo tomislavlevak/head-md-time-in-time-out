@@ -1,7 +1,0 @@
-TOTIBOT
-
-Humans are less and less inclined to be bored because of the busy contemporary lifestyle. But the moments one is not active are necessary for the brain which will switch to the so-called Default Mode Network when one is not focusing on a task.
-
-The aim of this project is to bring out these reboot moments. A program would collect body datas while the user is active to generate a world based on these but if the user stops all the progress is lost. Nevertheless the user can decide to keep it running while not active by interacting directly with it.
-
-![Pitch2](images/ObjetModeEnnui.jpeg)
