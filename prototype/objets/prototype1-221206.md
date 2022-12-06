@@ -1,6 +1,6 @@
 # first tests
 
-<img src="prototype\objets\images-proto1\prototype1-colle-fil-snake.jpeg" width=50% height=50% />
+<img src="prototype\objets\images-proto1\prototype1-colle-fil-snake.jpeg" />
 
 ![prototype101](images-proto1/prototype1-colle-fil-snake.jpeg | width=80)
 
