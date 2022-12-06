@@ -1,6 +1,6 @@
 # first tests
 
-<img src="C:\Users\levak\OneDrive\Documents\GitHub\head-md-time-in-time-out\prototype\objets\images-proto1\prototype1-colle-fil-snake.jpeg" width=50% height=50%>
+<img src="images-proto1proto1/prototype1-colle-fil-snake.jpeg" width=50% height=50%>
 
 ![prototype101](images-proto1/prototype1-colle-fil-snake.jpeg | width=80)
 
