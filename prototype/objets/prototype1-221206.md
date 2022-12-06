@@ -1,6 +1,6 @@
 # first tests
 
-![prototype101](images-proto1/prototype1-colle-fil-snake.jpeg)
+![prototype101](images-proto1/prototype1-colle-fil-snake.jpeg | width=800)
 
 ![prototype102](images-proto1/protoype1-chaine-ouvert.jpeg)
 
