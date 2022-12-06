@@ -4,7 +4,7 @@
 
 ![prototype101](images-proto1/prototype1-colle-fil-snake.jpeg | width=80)
 
-![prototype102](images-proto1/protoype1-chaine-ouvert.jpeg)
+![prototype102](images-proto1/protoype1-chaine-ouvert.jpeg){:height="50%" width="50%"}
 
 ![prototype103](images-proto1/prototype1-chaine-aie-ouch.jpeg)
 
