@@ -1,8 +1,10 @@
 # first tests
 
-<img src="prototype\objets\images-proto1\prototype1-colle-fil-snake.jpeg" />
+<div style="width:60px ; height:60px">
 
 ![prototype101](images-proto1/prototype1-colle-fil-snake.jpeg)
+
+<div>
 
 ![prototype102](images-proto1/protoype1-chaine-ouvert.jpeg)
 
