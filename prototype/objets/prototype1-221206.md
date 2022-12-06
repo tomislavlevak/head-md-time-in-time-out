@@ -1,8 +1,8 @@
 # first tests
 
-<img src="C:\Users\levak\OneDrive\Documents\GitHub\head-md-time-in-time-out\prototype\objets\images-proto1\prototype1-colle-fil-snake.jpeg" width="800">
+<img src="C:\Users\levak\OneDrive\Documents\GitHub\head-md-time-in-time-out\prototype\objets\images-proto1\prototype1-colle-fil-snake.jpeg" width="80">
 
-![prototype101](images-proto1/prototype1-colle-fil-snake.jpeg | width=800)
+![prototype101](images-proto1/prototype1-colle-fil-snake.jpeg | width=80)
 
 ![prototype102](images-proto1/protoype1-chaine-ouvert.jpeg)
 
