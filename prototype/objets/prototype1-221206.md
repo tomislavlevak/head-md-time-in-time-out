@@ -1,10 +1,6 @@
 # first tests
 
-<div style="width:60px ; height:60px">
-
-![prototype101](images-proto1/prototype1-colle-fil-snake.jpeg?raw=true)
-
-<div>
+![prototype101](images-proto1/prototype1-colle-fil-snake.jpeg)
 
 ![prototype102](images-proto1/protoype1-chaine-ouvert.jpeg)
 
